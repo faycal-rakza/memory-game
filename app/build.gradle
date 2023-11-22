@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.snatik.matches"
+        applicationId "com.faycal.matches"
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1007
