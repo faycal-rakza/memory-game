@@ -1,7 +1,7 @@
 package com.faycal.matches.common;
 
 import android.content.Context;
-import android.support.v4.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 
 import com.faycal.matches.engine.Engine;
 import com.faycal.matches.events.EventBus;
