@@ -7,7 +7,7 @@ android {
         applicationId "com.faycal.matches"
         minSdkVersion 21
         targetSdkVersion 35
-        versionCode 1013
+        versionCode 1014
         versionName "1.01.001014"
     }
     buildTypes {
@@ -22,7 +22,7 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.7.0'
-    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.9.20'
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.8.22'
 
     testImplementation 'junit:junit:4.13.2'
 
